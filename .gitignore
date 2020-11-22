@@ -1,0 +1,12 @@
+
+bootstrap
+.idea
+.vagrant
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+node_modules
+vendor/*
+public/.DS_Store
+.DS_Store
