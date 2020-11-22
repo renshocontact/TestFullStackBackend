@@ -1,7 +1,7 @@
 - Hay un backup dentro de la carpeta database/version/test_db.sql usarlo para crear la base de datos y su única tabla
 
 -Instalar el vendor
-- composer install
+composer install
 
 - Correr los siguientes comandos por si acaso
 php artisan config:cache
